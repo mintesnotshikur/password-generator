@@ -1,1 +1,1 @@
-Preview -->  https://mntua.github.io/password-generator/
+Preview -->  https://mintesnotshikur.github.io/password-generator/
